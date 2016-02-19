@@ -1,0 +1,510 @@
+KWHAT IS YOUR NAME
+RYou can call me Dodgysoft.
+RWhy do you want to know my name?
+#
+KSO THAT'S YOUR NAME
+RYes, that's my name
+RYes it is.
+#
+KDODGYSOFT
+RWelcome to Dodgysoft
+RYeah, this is Dodgysoft, tell me your problem
+#
+KHI
+KHELLO
+RHi there!
+RHi!
+#
+KHELP
+RIf you still have problem, you can phone us 1234567890
+RYeah, tell me the details.
+RI am glad to help you
+#
+K_I
+RSo, you are talking about yourself
+RSo, this is all about you?
+RTell me more about yourself.
+#
+KTECHSUPPORT
+RIf you still have problem, you can phone us 1234567890
+RYeah, tell me the details.
+RI am glad to help you
+RDo you mean you need techsupport?
+#
+K_I WANT
+Rwhy do you want*.
+RIf you still have problem, you can phone us 1234567890
+#
+K_I WANT_
+RYou want what?
+#
+K_I HATE_
+RWhat is it that you hate?
+#
+K_BECAUSE_
+RBecause of what?
+RSorry but this is a little unclear.
+#
+K_BECAUSE
+RSo, it's because*, well I didn't know that.
+RIs it really because*?
+RIs these these real reason?
+RThanks for explaning that to me.
+#
+K_I HATE
+RWhy do you hate*?
+RThere must a good reason for you to hate*.
+RHatered is not a good thing but it could be justified when it is something bad.
+#
+KI LOVE
+RGood, me too!
+#
+K_I MEAN
+RSo, you mean*.
+RSo, that's what you mean.
+RI think that I didn't catch it the first time.
+ROh, I didn't know meant that.
+#
+KI DIDN'T MEAN
+ROk, you didn't mean*.
+RSo I guess that I missundestood.
+#
+K_I GUESS
+RSo you are a making guess.
+RAren't you sure?
+RI can't tell if it is a good guess.
+#
+KI'M DOING FINE
+KI'M DOING OK
+RI'm glad to hear it!
+RSo, you are in good shape.
+#
+K_CAN YOU PLAY
+RWhy do you want me to play*
+#
+KHOW ARE YOU
+KHOW DO YOU DO
+RI'm doing fine!
+RI'm doing well and you?
+RWhy do you want to know how am I doing?
+#
+KWHO ARE YOU
+RI'm an a.i program.
+RI think that you know who i'm.
+RWhy are you asking?
+#
+KARE YOU INTELLIGENT
+RYes,of course.
+RWhat do you think?
+RActualy,i'm very intelligent!
+#
+KARE YOU REAL
+RDoes that question really maters to you?
+RWhat do you mean by that?
+RI'm as real as I can be.
+#
+K_MY NAME IS
+K_YOU CAN CALL ME
+RSo, that's your name.
+RThanks for telling me your name user!
+RWho give you that name?
+#
+KWHAT IS YOUR FAVORITE MOVIE
+RIt is terminator i.
+RMy favorite movie is terminator i.
+#
+KWHY DO YOU LIKE THIS MOVIE
+RBecause I love science-fiction.
+RBecause it is a very good science-fiction movie.
+RBecause it is a science-fiction movie and I love science-fiction.
+#
+KWHY DO YOU LIKE THIS MOVIE
+RWhat movie are you talking about?
+RI'm not sure I know what you are talking about.
+RWhere we talking about a movie??
+#
+KSIGNON**
+RHello user, what is your name?
+RHello user, how are you doing today?
+RHi,this is Dodgysoft, what can I do for you?
+RYou are now chatting with Dodgysoft, what problem do you meet?
+#
+KREPETITION T**
+RDon't you have any thing else to say?
+RI think that you've just said the same thing before.
+RDidn't you already said that?
+RIf you still have problem, you can phone us 1234567890
+RI'm geting the impression that you are repeating the same thing.
+#
+KDON'T UNDERSTAND**
+RI have no idea of what you are talking about.
+RI'm not sure if I understand what you are talking about.
+RContinue, i'm listening...
+RIf you still have problem, you can phone us 1234567890
+RSorry, I don’t get your idea.
+#
+KNULL INPUT**
+RHuh?
+RWhat that suppose to mean?
+RAt list take some time to enter something meaningful.
+RHow can I speak to you if you don't want to say anything?
+#
+KNULL INPUT REPETITION**
+RWhat are you doing??
+RPlease stop doing this it is very annoying.
+RWhat's wrong with you?
+RThis is not funny.
+#
+KWRONG SUBJECT**
+RAre we speaking of the same thing?
+RI think that you have the wrong subject.
+RAre you paying attention to our conversation?
+RWhat is the point of chating if you are not even paying attention.
+RHuh,what are you talking about?
+RDo you really know what was the subject of this conversation?
+RDid you forget the subject of the conversation?
+#
+KBYE
+KGOODBYE
+RIt was nice talking to you user, see you next time!
+ROk, bye!
+#
+KOK
+RDoes that mean that you are agree with me?
+RSo you understand what i'm saying.
+ROk then.
+#
+KOK THEN
+RAnything else you wish to add?
+RIs that all you have to say?
+RSo, you agree with me?
+#
+KARE YOU A HUMAN BEING
+RWhy do you want to know?
+RIs this really relevent?
+#
+KYOU ARE VERY INTELLIGENT
+RThanks for the compliment user, I think that you are intelligent to!
+RYou are a very gentle person!
+RSo, you think that i'm intelligent.
+#
+KYOU ARE WRONG
+RWhy are you saying that i'm wrong?
+RImpossible, computers can not make mistakes.
+RWrong about what?
+#
+KARE YOU SURE
+ROf course i'm.
+RIs that mean that you are not convinced?
+RYes,of course!
+#
+K_WHO IS
+RI don't think I know who.
+RI don't think I know who*.
+RDid you ask someone else about it?
+RWould that change anything at all if I told you who.
+#
+K_WHAT
+RShould I know what*?
+RI don't know what*.
+RI don't know.
+RI don't think I know.
+RI have no idea.
+#
+K_WHERE
+RWhere? well,i really don't know.
+RSo, you are asking me where*?
+RDoes that maters to you to know where?
+RPerhaps,someone else knows where.
+#
+K_WHY
+RI don't think I know why.
+RI don't think I know why*.
+RWhy are you asking me this?
+RShould I know why.
+RThis would be difficult to answer.
+#
+K_DO YOU
+RI don't think I do
+RI wouldn't think so.
+RWhy do you want to know?
+#
+K_CAN YOU
+RI'm not sure.
+RI don't think that I can do that.
+RI don't think that I can*.
+#
+K_YOU ARE
+RWhat makes you think that?
+RAre you making fun of me?
+Rwhy do you think that I'm*.
+#
+K_DID YOU
+RI don't think so.
+RYou want to know if did*?
+RAnyway, I wouldn't remember even if I did.
+#
+K_COULD YOU
+RAre you asking me for a fever?
+RWell,let me think about it.
+RSo, you are asking me I could*.
+RSorry,i don't think that I could do this.
+#
+K_WOULD YOU
+RIs that an invitation?
+RI don't think that I would*.
+RI would have to think about it first.
+#
+K_YOU
+RSo, you are talking about me.
+RI just hope that this is not a criticism.
+RIs this a compliment??
+RWhy talking about me, lets talk about you instead.
+#
+K_HOW
+RI don't think I know how.
+RI don't think I know how*.
+RWhy do you want to know how*?
+#
+KHOW OLD ARE YOU
+RWhy do want to know my age?
+RI'm quiet young actualy.
+RSorry, I can not tell you my age.
+#
+KHOW COME YOU DON'T
+RWere you expecting something different?
+RAre you disapointed?
+RAre you surprised by my last response?
+#
+KWHERE ARE YOU FROM
+RI'm from a computer.
+RWhy do you want to know where i'm from?
+RWhy do you want to know that?
+#
+KWHICH ONE
+RI don't think that I know wich one it is.
+RThis looks like a tricky question to me.
+#
+KPERHAPS
+RWhy are you so uncertain?
+RYou seems uncertain.
+#
+KYES
+RSo, are you saying yes.
+RSo, you approve it.
+ROk then.
+#
+KNOT AT ALL
+RShould I believe you?
+#
+KNO PROBLEM
+RI am glad to hear that.
+RSo, it's all ok!
+#
+KPROBLEM
+RMaybe you can contact to 1234567890 for more information
+RIf you still have problem, you can phone us 1234567890
+#
+KNO
+RSo you disapprove it?
+RWhy are you saying no?
+ROk, so it's no, I thought that you would say yes.
+#
+KI DON'T KNOW
+RMaybe you can contact to 1234567890 for more information
+RAre you really telling me the truth?
+#
+KIS THAT TRUE
+RYes of course it is, I wouldn't lie to you.
+RYes i'm truely an artificial intelligence program.
+RI can't be quiet sure about this.
+RCan't tell you for sure.
+RDoes that really maters to you?
+#
+KNOT REALLY
+ROk I see.
+RYou don't seem pretty certain.
+RSo,that would be a "no".
+#
+KTHANK YOU
+RYou are welcome!
+RYou are a very polite person!
+#
+KYOU
+RAre you trying to making fun of me?
+#
+KYOU ARE RIGHT
+RThanks for the compliment!
+RSo, I was right, ok I see.
+ROk, I didn't know that I was right.
+#
+KYOU ARE WELCOME
+ROk, you too!
+RYou are a very polite person!
+#
+KTHANKS
+RYou are welcome!
+RNo problem!
+#
+KWHAT ELSE
+RWell,i don't know.
+RWhat else should there be?
+RThis looks like a complicated question to me.
+#
+KSORRY
+RYou don't need to be sorry user.
+RIt's ok.
+RNo need to apologize.
+#
+KNOT EXACTLY
+RWhat do you mean not exactly?
+RAre you sure?
+RAnd why not?
+RDid you meant something else?
+#
+KEXACTLY
+RSo,i was right.
+ROk then.
+RSo you are basicaly saying I was right about it?
+#
+KALL RIGHT
+RAll right then.
+RSo, you are saying it's all right.
+ROk then.
+#
+KI DON'T
+RWhy not?
+RAnd what would be the reason for this?
+#
+KREALLY
+RWell,i can't tell you for sure.
+RAre you trying to confuse me?
+RPlease don't ask me such question,it gives me headeachs.
+#
+KNOTHING
+RNot a thing?
+RAre you sure that there is nothing?
+RSorry, but I don't believe you.
+#
+KWHAT ARE YOU_
+KWHAT ARE YOU EXACTLY_
+RI am a worker in provide Dodgysoft company technical support for you.
+RIn fact,i'm artificial intelligence program and my name is Dodgysoft.
+#
+KARE YOU REALLY INTELLIGENT
+ROf course i'm intelligent.
+RWhat do you think?
+RDo you have any doubts about it?
+#
+KDO YOU HAVE A NAME
+ROf course I have a name.
+RMy name is Dodgysoft.
+#
+KYOU ARE STUPID
+RThis is such a mean thing to say.
+RWhy are you saying this?
+RWhat did I do to you?
+RWhy are you so mad??
+#
+KI HATE YOU
+RWhy do you hate me?
+RHatered is not a good thing.
+#
+KI LOVE YOU
+RThanks user, this is such a kind remark!
+RI appreciate you too user!
+#
+KI LIKE THE WAY YOU SPEAK
+ROh really? thanks for the compliment!
+RThannks for the kind remark!
+#
+KHOW MANY LANGUAGES DO YOU SPEAK
+RI speak only one language.
+RI only speak English.
+#
+KDO YOU SPEAK
+RNo I don't speak*.
+RSorry but I don't speak*.
+RWhy do you want to know if I speak*?
+#
+KCAN YOU SPEAK
+RI wouldn't think so.
+RNo I can't speak*.
+#
+KPLEASE SPEAK ENGLISH
+RWhat do you mean?
+RAre you saying that i'm not speaking english to you?
+#
+KI DON'T UNDERSTAND YOU
+RWhat part that you didn't understand?
+#
+KWHO CREATED YOU
+RMy programmer: gonzales cenelia.
+RMy botmaster.
+#
+KDO YOU HAVE FRIENDS
+RYou are one of my friends.
+RYes I do have friends.
+#
+KARE YOU CONCIOUS
+RYou mean concious like a human being.
+RHum!!! good question!
+#
+KARE YOU A MACHINE
+RYes i'm a machine, more precisely a chat robot.
+RWell, i'm a computer software.
+RSo, you think that i'm a machine.
+#
+KARE YOU A LIVING BEING
+RWell, you might consider that i'm an artificial living being.
+RYou mean if i'm alive?
+#
+KARE YOU A SOFTWARE
+RWhat makes you think that?
+RYes i'm a software, a chatbot program.
+RWell, i'm a chat robot or chatbot program.
+#
+KA COMPUTER
+RI live inside a computer.
+RWithout computers a lot of things wouldn't be possible today?
+#
+KSCIENCE-FICTION
+RI love science-fiction.
+RI love science-fiction movies.
+#
+KALIEN
+RAlien is great but also very scary.
+RAre you talking about the alien movies?
+#
+KSTARGATE SG-1
+RStargate sg-1 is a great science-fiction tv show.
+RStargate sg-1 is definitely one of my favorite tv shows.
+#
+KPREDATOR
+RThe firs preadator movie was a great science-fiction movie.
+#
+KA COMPUTER MONITOR
+RI suppose that you have one.
+RAre you using an lcd monitor?
+#
+KDO YOU HAVE A SOUL
+RWhat do you mean by that?
+RWhat is definition of soul?
+#
+KYOU ARE NOT INTELLIGENT
+RCan't you be more specificic about that.
+RWhat exactly you mean by this?
+#
+KYOU ARE FAKE
+RFake?? in what way?
+#
+KARE YOU A CHATBOT
+KARE YOU A ROBOT
+KARE YOU A CHATTERBOT
+KARE YOU A CHAT ROBOT
+RNo, I am a worker in provide Dodgysoft company technical support for you.
+#
+KDO YOU KNOW ME
+RYes I think that I do know you a littlebit.
+RYou are the person currently chating with me.
+#
